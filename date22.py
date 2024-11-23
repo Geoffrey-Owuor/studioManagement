@@ -1,3 +1,5 @@
+#This is a python terminal only implementation of the project
+#This program was created to give an overview of how the project generally works
 #datettime package must downloaded using the python pip command incase you don'thave it
 from datetime import datetime
 
